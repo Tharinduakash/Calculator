@@ -1,0 +1,15 @@
+*{
+    margin: 5px;
+    padding: px;
+    font-family: sans-serif;
+}
+
+.container{
+    width: 300px;
+    height: 500px;
+    box-shadow: 4px 4px 30px black;
+}
+.buttons{
+    color: aqua;
+    
+}
